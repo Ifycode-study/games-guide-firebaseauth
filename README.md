@@ -1,5 +1,7 @@
 ## Games guide project
 
+Project built following the [net-ninja's firebase auth youtube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ). See [starter files](https://github.com/iamshaunjp/firebase-auth) in @iamshaunjp's github repo.
+
 ### Firestore database rules
 
 Addind a reference here in the readme instead of always having to go to firebase to get this. Copy and paste this and modify as needed in subsequent projects:
